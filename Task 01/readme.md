@@ -1,5 +1,5 @@
-### Task 1 Questions
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+## Task 1 Questions
+![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyterlab-F37626?logo=Jupyter&logoColor=white)
 
