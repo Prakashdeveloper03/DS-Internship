@@ -5,10 +5,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyterlab-F37626?logo=Jupyter&logoColor=white)
 
 **Pandas - Data Analysis of IMDB movies data**<br>
-As we have a basic understanding of the different data structures in Pandas, let’s explore the fun and interesting **‘IMDB-movies-dataset’** and get our hands dirty by performing practical data analysis on real data.<br><br>
-It is an open-source dataset and you can download it from <a href = "https://raw.githubusercontent.com/PrakashAnalyst/DS-Internship/main/Task%2005/IMDB-Movie-Data.csv" target = '_blank'> this link </a>. <br><br>
-We will read the data from the .csv file and perform the following basic operations on movies data.<br>
-     
+As we have a basic understanding of the different data structures in Pandas, let’s explore the fun and interesting **‘IMDB-movies-dataset’** and get our hands dirty by performing practical data analysis on real data.
+
   1. Load the IMDb Dataset and read
   2. View the dataset
   3. Understand some basic information about the dataset and Inspect the dataframe Inspect the dataframe's columns, shapes, variable types etc.
